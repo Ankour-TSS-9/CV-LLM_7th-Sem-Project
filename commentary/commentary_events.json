@@ -1,0 +1,1494 @@
+[
+  {
+    "time": 0.0,
+    "frame": 0,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 2
+  },
+  {
+    "time": 0.0,
+    "frame": 0,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 3,
+    "speed_kmh": 31.6
+  },
+  {
+    "time": 0.0,
+    "frame": 0,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 5,
+    "speed_kmh": 28.3
+  },
+  {
+    "time": 0.0,
+    "frame": 0,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 9,
+    "speed_kmh": 27.5
+  },
+  {
+    "time": 0.0,
+    "frame": 0,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 11,
+    "speed_kmh": 33.3
+  },
+  {
+    "time": 0.42,
+    "frame": 10,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 22,
+    "speed_kmh": 37.8
+  },
+  {
+    "time": 0.67,
+    "frame": 16,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 1
+  },
+  {
+    "time": 0.92,
+    "frame": 22,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 2
+  },
+  {
+    "time": 1.25,
+    "frame": 30,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 3,
+    "speed_kmh": 29.0
+  },
+  {
+    "time": 1.29,
+    "frame": 31,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 1
+  },
+  {
+    "time": 1.46,
+    "frame": 35,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 9,
+    "speed_kmh": 38.9
+  },
+  {
+    "time": 1.67,
+    "frame": 40,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 5,
+    "speed_kmh": 25.1
+  },
+  {
+    "time": 1.83,
+    "frame": 44,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 24
+  },
+  {
+    "time": 2.42,
+    "frame": 58,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 10
+  },
+  {
+    "time": 2.5,
+    "frame": 60,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 1,
+    "speed_kmh": 23.8
+  },
+  {
+    "time": 3.12,
+    "frame": 75,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 8
+  },
+  {
+    "time": 3.17,
+    "frame": 76,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 24
+  },
+  {
+    "time": 3.33,
+    "frame": 80,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 8,
+    "speed_kmh": 34.0
+  },
+  {
+    "time": 3.33,
+    "frame": 80,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 24,
+    "speed_kmh": 43.5
+  },
+  {
+    "time": 3.54,
+    "frame": 85,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 11,
+    "speed_kmh": 32.5
+  },
+  {
+    "time": 3.54,
+    "frame": 85,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 3,
+    "speed_kmh": 28.6
+  },
+  {
+    "time": 3.54,
+    "frame": 85,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 9,
+    "speed_kmh": 32.8
+  },
+  {
+    "time": 3.54,
+    "frame": 85,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 5,
+    "speed_kmh": 49.7
+  },
+  {
+    "time": 3.75,
+    "frame": 90,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 1,
+    "speed_kmh": 39.9
+  },
+  {
+    "time": 3.88,
+    "frame": 93,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 8
+  },
+  {
+    "time": 4.21,
+    "frame": 101,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 10
+  },
+  {
+    "time": 4.38,
+    "frame": 105,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 10,
+    "speed_kmh": 31.7
+  },
+  {
+    "time": 4.38,
+    "frame": 105,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 29,
+    "speed_kmh": 26.6
+  },
+  {
+    "time": 5.0,
+    "frame": 120,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 7,
+    "speed_kmh": 23.3
+  },
+  {
+    "time": 5.0,
+    "frame": 120,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 8,
+    "speed_kmh": 49.9
+  },
+  {
+    "time": 5.21,
+    "frame": 125,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 12,
+    "speed_kmh": 26.7
+  },
+  {
+    "time": 5.25,
+    "frame": 126,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 15
+  },
+  {
+    "time": 5.42,
+    "frame": 130,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 12
+  },
+  {
+    "time": 5.42,
+    "frame": 130,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 17,
+    "speed_kmh": 23.2
+  },
+  {
+    "time": 5.5,
+    "frame": 132,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 15
+  },
+  {
+    "time": 5.79,
+    "frame": 139,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 10
+  },
+  {
+    "time": 5.83,
+    "frame": 140,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 3,
+    "speed_kmh": 29.9
+  },
+  {
+    "time": 5.83,
+    "frame": 140,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 24,
+    "speed_kmh": 27.1
+  },
+  {
+    "time": 5.83,
+    "frame": 140,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 10,
+    "speed_kmh": 27.6
+  },
+  {
+    "time": 6.04,
+    "frame": 145,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 12
+  },
+  {
+    "time": 6.08,
+    "frame": 146,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 10
+  },
+  {
+    "time": 6.46,
+    "frame": 155,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 12,
+    "speed_kmh": 22.7
+  },
+  {
+    "time": 6.67,
+    "frame": 160,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 7
+  },
+  {
+    "time": 6.67,
+    "frame": 160,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 17,
+    "speed_kmh": 36.4
+  },
+  {
+    "time": 6.67,
+    "frame": 160,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 11,
+    "speed_kmh": 24.0
+  },
+  {
+    "time": 6.67,
+    "frame": 160,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 5,
+    "speed_kmh": 24.8
+  },
+  {
+    "time": 7.17,
+    "frame": 172,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 12
+  },
+  {
+    "time": 7.29,
+    "frame": 175,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 3,
+    "speed_kmh": 27.2
+  },
+  {
+    "time": 7.5,
+    "frame": 180,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 24,
+    "speed_kmh": 24.0
+  },
+  {
+    "time": 7.71,
+    "frame": 185,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 7,
+    "speed_kmh": 32.4
+  },
+  {
+    "time": 7.71,
+    "frame": 185,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 12,
+    "speed_kmh": 40.7
+  },
+  {
+    "time": 7.92,
+    "frame": 190,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 33,
+    "speed_kmh": 24.7
+  },
+  {
+    "time": 8.12,
+    "frame": 195,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 17,
+    "speed_kmh": 30.1
+  },
+  {
+    "time": 8.33,
+    "frame": 200,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 11,
+    "speed_kmh": 25.7
+  },
+  {
+    "time": 8.33,
+    "frame": 200,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 5,
+    "speed_kmh": 31.5
+  },
+  {
+    "time": 8.33,
+    "frame": 200,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 9,
+    "speed_kmh": 33.9
+  },
+  {
+    "time": 8.38,
+    "frame": 201,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 15
+  },
+  {
+    "time": 8.58,
+    "frame": 206,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 35
+  },
+  {
+    "time": 8.71,
+    "frame": 209,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 15
+  },
+  {
+    "time": 8.75,
+    "frame": 210,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 37
+  },
+  {
+    "time": 8.83,
+    "frame": 212,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 35
+  },
+  {
+    "time": 8.96,
+    "frame": 215,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 15
+  },
+  {
+    "time": 9.0,
+    "frame": 216,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 35
+  },
+  {
+    "time": 9.04,
+    "frame": 217,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 12
+  },
+  {
+    "time": 9.08,
+    "frame": 218,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 37
+  },
+  {
+    "time": 9.17,
+    "frame": 220,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 3,
+    "speed_kmh": 22.5
+  },
+  {
+    "time": 9.17,
+    "frame": 220,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 33,
+    "speed_kmh": 44.9
+  },
+  {
+    "time": 9.17,
+    "frame": 220,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 41,
+    "speed_kmh": 26.5
+  },
+  {
+    "time": 9.38,
+    "frame": 225,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 38,
+    "speed_kmh": 25.4
+  },
+  {
+    "time": 9.38,
+    "frame": 225,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 17,
+    "speed_kmh": 39.1
+  },
+  {
+    "time": 9.71,
+    "frame": 233,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 45
+  },
+  {
+    "time": 9.92,
+    "frame": 238,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 12
+  },
+  {
+    "time": 9.96,
+    "frame": 239,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 45
+  },
+  {
+    "time": 10.0,
+    "frame": 240,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 32,
+    "speed_kmh": 22.5
+  },
+  {
+    "time": 10.08,
+    "frame": 242,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 33
+  },
+  {
+    "time": 10.12,
+    "frame": 243,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 45
+  },
+  {
+    "time": 10.21,
+    "frame": 245,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 11
+  },
+  {
+    "time": 10.21,
+    "frame": 245,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 44,
+    "speed_kmh": 37.8
+  },
+  {
+    "time": 10.25,
+    "frame": 246,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 45
+  },
+  {
+    "time": 10.42,
+    "frame": 250,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 3,
+    "speed_kmh": 35.8
+  },
+  {
+    "time": 10.42,
+    "frame": 250,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 33,
+    "speed_kmh": 36.0
+  },
+  {
+    "time": 10.62,
+    "frame": 255,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 17,
+    "speed_kmh": 23.1
+  },
+  {
+    "time": 10.83,
+    "frame": 260,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 38,
+    "speed_kmh": 29.5
+  },
+  {
+    "time": 11.04,
+    "frame": 265,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 53,
+    "speed_kmh": 30.3
+  },
+  {
+    "time": 11.04,
+    "frame": 265,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 50,
+    "speed_kmh": 30.7
+  },
+  {
+    "time": 11.46,
+    "frame": 275,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 55,
+    "speed_kmh": 29.3
+  },
+  {
+    "time": 11.46,
+    "frame": 275,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 54,
+    "speed_kmh": 25.0
+  },
+  {
+    "time": 12.54,
+    "frame": 301,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 60
+  },
+  {
+    "time": 14.17,
+    "frame": 340,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 70,
+    "speed_kmh": 31.3
+  },
+  {
+    "time": 14.17,
+    "frame": 340,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 73,
+    "speed_kmh": 43.8
+  },
+  {
+    "time": 14.17,
+    "frame": 340,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 54,
+    "speed_kmh": 27.6
+  },
+  {
+    "time": 14.21,
+    "frame": 341,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 72
+  },
+  {
+    "time": 14.29,
+    "frame": 343,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 71
+  },
+  {
+    "time": 14.33,
+    "frame": 344,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 72
+  },
+  {
+    "time": 14.38,
+    "frame": 345,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 69,
+    "speed_kmh": 23.5
+  },
+  {
+    "time": 14.38,
+    "frame": 345,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 72,
+    "speed_kmh": 25.1
+  },
+  {
+    "time": 14.46,
+    "frame": 347,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 73
+  },
+  {
+    "time": 14.5,
+    "frame": 348,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 72
+  },
+  {
+    "time": 14.62,
+    "frame": 351,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 73
+  },
+  {
+    "time": 14.75,
+    "frame": 354,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 72
+  },
+  {
+    "time": 14.79,
+    "frame": 355,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 73
+  },
+  {
+    "time": 14.88,
+    "frame": 357,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 70
+  },
+  {
+    "time": 14.92,
+    "frame": 358,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 73
+  },
+  {
+    "time": 15.0,
+    "frame": 360,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 69
+  },
+  {
+    "time": 15.17,
+    "frame": 364,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 72
+  },
+  {
+    "time": 15.21,
+    "frame": 365,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 75,
+    "speed_kmh": 56.8
+  },
+  {
+    "time": 15.25,
+    "frame": 366,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 73
+  },
+  {
+    "time": 15.42,
+    "frame": 370,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 70,
+    "speed_kmh": 22.5
+  },
+  {
+    "time": 15.42,
+    "frame": 370,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 73,
+    "speed_kmh": 35.1
+  },
+  {
+    "time": 15.54,
+    "frame": 373,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 69
+  },
+  {
+    "time": 15.62,
+    "frame": 375,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 72,
+    "speed_kmh": 29.4
+  },
+  {
+    "time": 15.71,
+    "frame": 377,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 73
+  },
+  {
+    "time": 15.83,
+    "frame": 380,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 69,
+    "speed_kmh": 24.1
+  },
+  {
+    "time": 15.83,
+    "frame": 380,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 54,
+    "speed_kmh": 34.4
+  },
+  {
+    "time": 15.96,
+    "frame": 383,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 72
+  },
+  {
+    "time": 16.0,
+    "frame": 384,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 73
+  },
+  {
+    "time": 16.21,
+    "frame": 389,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 72
+  },
+  {
+    "time": 16.29,
+    "frame": 391,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 71
+  },
+  {
+    "time": 16.5,
+    "frame": 396,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 75
+  },
+  {
+    "time": 17.17,
+    "frame": 412,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 54
+  },
+  {
+    "time": 17.29,
+    "frame": 415,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 54,
+    "speed_kmh": 23.3
+  },
+  {
+    "time": 18.12,
+    "frame": 435,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 69,
+    "speed_kmh": 37.6
+  },
+  {
+    "time": 18.21,
+    "frame": 437,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 71
+  },
+  {
+    "time": 18.71,
+    "frame": 449,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 83
+  },
+  {
+    "time": 19.33,
+    "frame": 464,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 89
+  },
+  {
+    "time": 19.75,
+    "frame": 474,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 83
+  },
+  {
+    "time": 19.79,
+    "frame": 475,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 89,
+    "speed_kmh": 35.1
+  },
+  {
+    "time": 19.79,
+    "frame": 475,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 92,
+    "speed_kmh": 27.2
+  },
+  {
+    "time": 19.83,
+    "frame": 476,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 89
+  },
+  {
+    "time": 20.21,
+    "frame": 485,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 92
+  },
+  {
+    "time": 20.62,
+    "frame": 495,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 71,
+    "speed_kmh": 31.9
+  },
+  {
+    "time": 21.04,
+    "frame": 505,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 95,
+    "speed_kmh": 25.8
+  },
+  {
+    "time": 21.38,
+    "frame": 513,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 99
+  },
+  {
+    "time": 21.46,
+    "frame": 515,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 94
+  },
+  {
+    "time": 21.46,
+    "frame": 515,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 89,
+    "speed_kmh": 29.9
+  },
+  {
+    "time": 21.58,
+    "frame": 518,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 71
+  },
+  {
+    "time": 21.67,
+    "frame": 520,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 98,
+    "speed_kmh": 23.6
+  },
+  {
+    "time": 21.67,
+    "frame": 520,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 99,
+    "speed_kmh": 28.3
+  },
+  {
+    "time": 21.88,
+    "frame": 525,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 94,
+    "speed_kmh": 66.0
+  },
+  {
+    "time": 22.08,
+    "frame": 530,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 99
+  },
+  {
+    "time": 22.21,
+    "frame": 533,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 71
+  },
+  {
+    "time": 22.33,
+    "frame": 536,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 95
+  },
+  {
+    "time": 22.58,
+    "frame": 542,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 101
+  },
+  {
+    "time": 22.62,
+    "frame": 543,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 103
+  },
+  {
+    "time": 22.71,
+    "frame": 545,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 103,
+    "speed_kmh": 22.3
+  },
+  {
+    "time": 22.79,
+    "frame": 547,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 71
+  },
+  {
+    "time": 22.83,
+    "frame": 548,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 99
+  },
+  {
+    "time": 22.88,
+    "frame": 549,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 71
+  },
+  {
+    "time": 22.92,
+    "frame": 550,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 99,
+    "speed_kmh": 22.2
+  },
+  {
+    "time": 22.96,
+    "frame": 551,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 95
+  },
+  {
+    "time": 23.08,
+    "frame": 554,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 71
+  },
+  {
+    "time": 23.17,
+    "frame": 556,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 99
+  },
+  {
+    "time": 23.21,
+    "frame": 557,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 101
+  },
+  {
+    "time": 23.25,
+    "frame": 558,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 95
+  },
+  {
+    "time": 23.96,
+    "frame": 575,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 99
+  },
+  {
+    "time": 24.0,
+    "frame": 576,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 101
+  },
+  {
+    "time": 24.25,
+    "frame": 582,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 99
+  },
+  {
+    "time": 24.29,
+    "frame": 583,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 71
+  },
+  {
+    "time": 24.79,
+    "frame": 595,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 103,
+    "speed_kmh": 27.3
+  },
+  {
+    "time": 24.79,
+    "frame": 595,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 99,
+    "speed_kmh": 22.4
+  },
+  {
+    "time": 24.83,
+    "frame": 596,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 99
+  },
+  {
+    "time": 25.42,
+    "frame": 610,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 95,
+    "speed_kmh": 24.9
+  },
+  {
+    "time": 25.42,
+    "frame": 610,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 108,
+    "speed_kmh": 22.4
+  },
+  {
+    "time": 25.62,
+    "frame": 615,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 92,
+    "speed_kmh": 23.2
+  },
+  {
+    "time": 25.62,
+    "frame": 615,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 98,
+    "speed_kmh": 24.7
+  },
+  {
+    "time": 25.62,
+    "frame": 615,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 94,
+    "speed_kmh": 28.3
+  },
+  {
+    "time": 25.62,
+    "frame": 615,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 71,
+    "speed_kmh": 36.1
+  },
+  {
+    "time": 26.17,
+    "frame": 628,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 110
+  },
+  {
+    "time": 26.67,
+    "frame": 640,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 103
+  },
+  {
+    "time": 26.71,
+    "frame": 641,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 110
+  },
+  {
+    "time": 26.88,
+    "frame": 645,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 95,
+    "speed_kmh": 25.7
+  },
+  {
+    "time": 27.08,
+    "frame": 650,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 99,
+    "speed_kmh": 26.1
+  },
+  {
+    "time": 27.29,
+    "frame": 655,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 99
+  },
+  {
+    "time": 27.29,
+    "frame": 655,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 92,
+    "speed_kmh": 28.3
+  },
+  {
+    "time": 27.29,
+    "frame": 655,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 94,
+    "speed_kmh": 27.8
+  },
+  {
+    "time": 27.29,
+    "frame": 655,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 71,
+    "speed_kmh": 28.6
+  },
+  {
+    "time": 27.5,
+    "frame": 660,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 112,
+    "speed_kmh": 28.0
+  },
+  {
+    "time": 27.92,
+    "frame": 670,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 109,
+    "speed_kmh": 45.5
+  },
+  {
+    "time": 27.96,
+    "frame": 671,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 118
+  },
+  {
+    "time": 28.04,
+    "frame": 673,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 114
+  },
+  {
+    "time": 28.21,
+    "frame": 677,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 118
+  },
+  {
+    "time": 28.92,
+    "frame": 694,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 114
+  },
+  {
+    "time": 28.96,
+    "frame": 695,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 112,
+    "speed_kmh": 56.2
+  },
+  {
+    "time": 28.96,
+    "frame": 695,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 119,
+    "speed_kmh": 52.7
+  },
+  {
+    "time": 29.17,
+    "frame": 700,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 109
+  },
+  {
+    "time": 29.17,
+    "frame": 700,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 116,
+    "speed_kmh": 31.5
+  },
+  {
+    "time": 29.17,
+    "frame": 700,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 109,
+    "speed_kmh": 46.4
+  },
+  {
+    "time": 29.58,
+    "frame": 710,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 120,
+    "speed_kmh": 53.5
+  },
+  {
+    "time": 29.58,
+    "frame": 710,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 118,
+    "speed_kmh": 58.1
+  },
+  {
+    "time": 29.71,
+    "frame": 713,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 118
+  },
+  {
+    "time": 30.08,
+    "frame": 722,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 116
+  },
+  {
+    "time": 30.17,
+    "frame": 724,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 120
+  },
+  {
+    "time": 30.42,
+    "frame": 730,
+    "type": "sprint",
+    "team": 1,
+    "player_id": 122,
+    "speed_kmh": 29.0
+  },
+  {
+    "time": 30.62,
+    "frame": 735,
+    "type": "possession_change",
+    "team": 2,
+    "player_id": 131
+  },
+  {
+    "time": 30.62,
+    "frame": 735,
+    "type": "sprint",
+    "team": 2,
+    "player_id": 130,
+    "speed_kmh": 58.2
+  },
+  {
+    "time": 30.71,
+    "frame": 737,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 109
+  },
+  {
+    "time": 30.88,
+    "frame": 741,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 120
+  },
+  {
+    "time": 30.92,
+    "frame": 742,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 116
+  },
+  {
+    "time": 31.04,
+    "frame": 745,
+    "type": "possession_change",
+    "team": 1,
+    "player_id": 109
+  }
+]

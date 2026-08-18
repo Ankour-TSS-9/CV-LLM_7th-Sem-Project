@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.pkl
+*.mp3
+output_videos/*.avi
+output_videos/*.mp4
+input_videos/*.mp4
+commentary_audio/
+models/*.pt
+.env
